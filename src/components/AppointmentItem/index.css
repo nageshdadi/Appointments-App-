@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.listCart {
+  list-style-type: none;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 250px;
+  height: 90px;
+}
+.titleAndStar {
+  display: flex;
+  justify-content: space-around;
+}
+.name {
+  font-weight: solid;
+  font-size: 15px;
+}
+.starImg {
+  height: 20px;
+  width: 20px;
+}
+.dateForamte {
+  font-size: 10px;
+  font-family: 'Roboto';
+}
+.btn {
+  background-color: #ffffff;
+  border-width: 0px;
+}

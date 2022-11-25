@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.bgContainer {
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Card {
+  background-color: #ffffff;
+  width: 70%;
+  height: 600px;
+  border-radius: 10px;
+  padding: 20px;
+}
+.topCard {
+  display: flex;
+  padding: 40px;
+}
+.my-form-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.appointmentImg {
+  margin: auto;
+  width: auto;
+}
+.bellowCard {
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  background-color: transparent;
+  border: 2px solid #9796f0;
+  color: #9796f0;
+  height: 30px;
+  width: 90px;
+  padding: 5px;
+  border-radius: 8px;
+}
+.ulAppointment {
+  display: flex;
+}
